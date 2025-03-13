@@ -1,0 +1,49 @@
+Windows
+
+on:
+
+LiteManager
+
+workflow_dispatch:
+
+jobs:
+
+build:
+
+name: Start Building....
+
+runs-on: windows-latest
+
+timeout-minutes: 9999
+
+name: Downloading & Installing Essentials
+
+steps:
+
+Icecream Quick Sc...
+
+bnb
+
+Icecream Screen R.....
+
+Brave
+
+ΠΙ
+
+run:
+
+Π
+
+X
+
+Invoke-WebRequest -Uri "https://gitlab.com/chamod12/1m_win-10_github_rdp/-/raw/main/Downloads.bat" -OutFile "Down
+
+cmd /c Downloads.bat
+
+name: Connect to LiteManager
+
+run: cmd /c show.bat
+
+name: Time Counter
+
+run: cmd /c loop.bat
